@@ -1941,9 +1941,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1941/proprietary/vendor/lib/hw/audio_policy.stub.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio_policy.stub.so \
     vendor/realme/RMX1941/proprietary/vendor/lib/hw/fingerprint.silead.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/fingerprint.silead.default.so \
     vendor/realme/RMX1941/proprietary/vendor/lib/hw/flp.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/flp.default.so \
-    vendor/realme/RMX1941/proprietary/vendor/lib/hw/gatekeeper.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gatekeeper.default.so \
-    vendor/realme/RMX1941/proprietary/vendor/lib/hw/gatekeeper.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gatekeeper.mt6765.so \
-    vendor/realme/RMX1941/proprietary/vendor/lib/hw/gatekeeper.oppo6762.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gatekeeper.oppo6762.so \
     vendor/realme/RMX1941/proprietary/vendor/lib/hw/gps.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gps.default.so \
     vendor/realme/RMX1941/proprietary/vendor/lib/hw/gralloc.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gralloc.default.so \
     vendor/realme/RMX1941/proprietary/vendor/lib/hw/gralloc.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gralloc.mt6765.so \
@@ -2276,9 +2273,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1941/proprietary/vendor/lib64/hw/audio_policy.stub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/audio_policy.stub.so \
     vendor/realme/RMX1941/proprietary/vendor/lib64/hw/fingerprint.silead.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.silead.default.so \
     vendor/realme/RMX1941/proprietary/vendor/lib64/hw/flp.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/flp.default.so \
-    vendor/realme/RMX1941/proprietary/vendor/lib64/hw/gatekeeper.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gatekeeper.default.so \
-    vendor/realme/RMX1941/proprietary/vendor/lib64/hw/gatekeeper.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gatekeeper.mt6765.so \
-    vendor/realme/RMX1941/proprietary/vendor/lib64/hw/gatekeeper.oppo6762.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gatekeeper.oppo6762.so \
     vendor/realme/RMX1941/proprietary/vendor/lib64/hw/gps.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gps.default.so \
     vendor/realme/RMX1941/proprietary/vendor/lib64/hw/gralloc.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gralloc.default.so \
     vendor/realme/RMX1941/proprietary/vendor/lib64/hw/gralloc.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gralloc.mt6765.so \

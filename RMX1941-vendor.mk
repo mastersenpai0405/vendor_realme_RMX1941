@@ -1943,8 +1943,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1941/proprietary/vendor/lib/hw/gps.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gps.default.so \
     vendor/realme/RMX1941/proprietary/vendor/lib/hw/gralloc.default.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gralloc.default.so \
     vendor/realme/RMX1941/proprietary/vendor/lib/hw/gralloc.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gralloc.mt6765.so \
-    vendor/realme/RMX1941/proprietary/vendor/lib/hw/keystore.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/keystore.mt6765.so \
-    vendor/realme/RMX1941/proprietary/vendor/lib/hw/keystore.oppo6762.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/keystore.oppo6762.so \
     vendor/realme/RMX1941/proprietary/vendor/lib/hw/kmsetkey.trustonic.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/kmsetkey.trustonic.so \
     vendor/realme/RMX1941/proprietary/vendor/lib/hw/libMcGatekeeper.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/libMcGatekeeper.so \
     vendor/realme/RMX1941/proprietary/vendor/lib/hw/libMcTeeKeymaster.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/libMcTeeKeymaster.so \
@@ -2273,8 +2271,6 @@ PRODUCT_COPY_FILES += \
     vendor/realme/RMX1941/proprietary/vendor/lib64/hw/gralloc.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gralloc.default.so \
     vendor/realme/RMX1941/proprietary/vendor/lib64/hw/gralloc.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gralloc.mt6765.so \
     vendor/realme/RMX1941/proprietary/vendor/lib64/hw/hwcomposer.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/hwcomposer.mt6765.so \
-    vendor/realme/RMX1941/proprietary/vendor/lib64/hw/keystore.mt6765.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/keystore.mt6765.so \
-    vendor/realme/RMX1941/proprietary/vendor/lib64/hw/keystore.oppo6762.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/keystore.oppo6762.so \
     vendor/realme/RMX1941/proprietary/vendor/lib64/hw/kmsetkey.trustonic.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/kmsetkey.trustonic.so \
     vendor/realme/RMX1941/proprietary/vendor/lib64/hw/libMcGatekeeper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/libMcGatekeeper.so \
     vendor/realme/RMX1941/proprietary/vendor/lib64/hw/libMcTeeKeymaster.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/libMcTeeKeymaster.so \
